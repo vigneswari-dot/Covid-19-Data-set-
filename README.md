@@ -192,3 +192,12 @@ Country-wise filtering
 Real-time COVID data integration
 Advanced predictive analytics using Machine Learning
 Export reports in PDF format
+<img width="578" height="529" alt="week 7" src="https://github.com/user-attachments/assets/31470c15-6fea-4ce9-8e2a-93beaa789759" />
+<img width="578" height="529" alt="week 7" src="https://github.com/user-attachments/assets/d557fcb2-6f41-4f98-b27f-811860bae9c7" />
+<img width="589" height="455" alt="week 7(2)" src="https://github.com/user-attachments/assets/65654d9a-67bf-4bee-8500-cc148934a6d5" />
+<img width="515" height="435" alt="week7(3)" src="https://github.com/user-attachments/assets/4071f69a-2eb6-4196-8654-8213bbd79277" />
+<img width="556" height="438" alt="week 7(4)" src="https://github.com/user-attachments/assets/fc0157dc-8fb6-4bf1-943c-cae3710075fd" />
+
+
+
+
